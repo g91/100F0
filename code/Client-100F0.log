@@ -1,0 +1,5 @@
+﻿  Cient.cpp
+  Generating code
+g:\xblhclient\100f0\hvxcalls.cpp(285): warning C4715: 'xbox::Hvx::SysCalls::HvxExpansionCall' : not all control paths return a value
+g:\xblhclient\100f0\hvxcalls.cpp(268): warning C4715: 'xbox::Hvx::SysCalls::HvxExpansionInstall' : not all control paths return a value
+  Finished generating code
