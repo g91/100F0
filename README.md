@@ -44,3 +44,4 @@ Place hard-coded key patches
 
 55 55 55 55 55 55 55 55 55
 
+this contains the code and a setup example on how to use it caution please note do not have a KV on your system while doing this process please make sure live mode is disabled. this is only for generating the initial hashes not the ECC data correctly. this method will only allow you to generate 100F0. and create a clean bass output for the next step. 
