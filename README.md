@@ -14,11 +14,15 @@ http://evilsource.net/Thread-100F0-at-the-dashboard
 
 disable key generation patches
 00 00 20 E4 - address in hypervisor
+
 00 00 00 01 - number of the patches and 0x04 bytes interval sizes
+
 60 00 00 00 - patches 
 
 00 00 20 F0 - address in hypervisor
+
 00 00 00 01 - number of the patches and 0x04 bytes interval sizes
+
 60 00 00 00 
 
 
